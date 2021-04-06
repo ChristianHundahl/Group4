@@ -6,6 +6,6 @@ public class HelloWorld {
         System.out.println("Emilia tager opgave 'Hvor tit skal græsset slås'");
         System.out.println("Daniell tager opgave 'Arraylist'");
         System.out.println("Jonatan tager opgave 'Bog'");
-        System.out.println("Chrsitian tager opgave 'Sortering'");
+        System.out.println("Christian tager opgave 'Sortering'");
     }
 }
