@@ -7,7 +7,9 @@ public class Sortering {
     public static void Sortering() {
         ArrayList<String> sortThisList = new ArrayList<>(); //Create ArrayList
         //TODO: add input from scanner to sortThisList
-        Scanner userInput = new Scanner();
+        Scanner userInput = new Scanner(System.in);
+        userInput.nextLine();
+        //TODO: Create loop to get 5 Strings from user
 
         //TODO: Create 'for' loop to put items in alphabetical order
         for (int i = 0; i < sortThisList.size(); i++) //Create loop to print sortThisList in original order
