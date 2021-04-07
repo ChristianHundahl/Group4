@@ -7,5 +7,7 @@ public class HelloWorld {
         System.out.println("Daniell tager opgave 'Arraylist'");
         System.out.println("Jonatan tager opgave 'Bog'");
         System.out.println("Christian tager opgave 'Sortering'");
+
+        Sortering.SorteringsMetode();
     }
 }
