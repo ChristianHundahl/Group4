@@ -9,5 +9,7 @@ public class HelloWorld {
         System.out.println("Christian tager opgave 'Sortering'");
 
         Sortering.SorteringsMetode();
+
+
     }
 }
