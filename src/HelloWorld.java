@@ -10,6 +10,7 @@ public class HelloWorld {
 
         Sortering.SorteringsMetode();
 
-
+        //TODO: call all methods
+        //TODO: refactor to 'Test' or 'Main'
     }
 }

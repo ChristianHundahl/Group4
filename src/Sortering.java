@@ -3,7 +3,11 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 public class Sortering {
-    private String problemStatement = "Skriv en metode der indlæser 5 tekststrenge fra tastaturet og udskriver dem på skærmen i alfabetiskfaldende orden på skærmen";
+    private String problemStatement = """
+    Skriv en metode der indlæser 5 tekststrenge fra 
+    tastaturet og udskriver dem på skærmen i 
+    alfabetisk faldende orden.""";
+
     public void printProblemDescription(){
         System.out.println(problemStatement);
     }
